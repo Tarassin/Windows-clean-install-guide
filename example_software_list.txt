@@ -1,0 +1,26 @@
+# You can add comments using "#"
+# You can add sections using "[]"
+# Empty lines are ignored
+
+[Sound]
+audacity
+lmms
+
+[Drawing]
+krita
+
+[Programming]
+python
+nodejs
+docker-desktop
+git
+gh
+
+[Utils]
+7zip
+wsl
+
+[Browsers]
+googlechrome
+firefox
+microsoft-edge
